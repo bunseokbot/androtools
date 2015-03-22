@@ -1,0 +1,12 @@
+ssdeep,1.1--blocksize:hash:hash,filename
+12288:ii8hfsF7BGL28xjusVSKYQnbb3YM1j7jec8MrbBp2d8OP+xRj9eP+:g6F7BM2cusAK/YMAc8MvBp26OPkRj9K+,"/Users/mac/Desktop/androtools/androtools/malware.apk"
+12288:ii8hfsF7BGL28xjusVSKYQnbb3YM1j7jec8MrbBp2d8OP+xRj9eP+:g6F7BM2cusAK/YMAc8MvBp26OPkRj9K+,"/Users/mac/Desktop/androtools/androtools/malware.apk"
+12288:ii8hfsF7BGL28xjusVSKYQnbb3YM1j7jec8MrbBp2d8OP+xRj9eP+:g6F7BM2cusAK/YMAc8MvBp26OPkRj9K+,"/Users/mac/Desktop/androtools/androtools/malware.apk"
+6144:gwMEpGnh2x48Uev2Jxjtaa9RJD0D/qqp6Hciy3G9PaGe:gwMEUh2vSaaR2/JpjiD9Paz,"/Users/mac/Desktop/smishing/ganjishop.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
+6144:90IJnHXwTKkHldgzjQcORVG9vqvXLsMSuUdgDEXOeuh0GI7AGiKBZ/cx:9bJn/OgzjtOKlUXLPo2EXS0G2AqBZEx,"/Users/mac/Desktop/smishing/giro2013.apk"
