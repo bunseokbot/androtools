@@ -1,10 +1,18 @@
-# androtools
-Android malware static &amp; dynamic analysis and automated action Tool<br>
-Network Traffic Analysis in dynamic analysis and simliarity check function<br>
+## androtools
 
-Developed by @bunseokbot<br>
-- Sejong University, Major of Computer and Information Security (Enter in 2015)<br>
-- UpRoot, Inc.<br>
-- KITRI Best of the Best 3rd Advanced student<br>
-Git Clone link : [https://github.com/bunseokbot/androtools.git]<br>
-androtools Wiki : [https://github.com/bunseokbot/androtools/wiki/Getting-Started]
+Android Malware static & dynamic analysis tool<br>
+Network Traffic, Simliarity Check, Automatic Action on Virtual Device
+
+
+### How to use?
+
+
+Just execute this!
+```
+python2.7 androtools.py filename.apk output.html
+```
+
+#### Project Manager
+@bunseokbot
+- UpRoot, Inc.
+- Sejong University, Major of Computer and Information Security 15'
